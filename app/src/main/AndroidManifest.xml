@@ -21,6 +21,13 @@
             </intent-filter>
         </activity>
     </application>
+
+
+<!--    <uses-feature&ndash;&gt;-->
+<!--            android:name="android.hardware.type.automotive"-->
+<!--            android:required="true" />-->
+
+
     <!-- Various required feature settings for an automotive app. -->
 <!--    <uses-feature-->
 <!--        android:name="android.hardware.type.automotive"-->
