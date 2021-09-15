@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GearChange</string>
+    <string name="main_current_gear">Current Gear:</string>
+</resources>
